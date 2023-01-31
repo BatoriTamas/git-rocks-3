@@ -1,7 +1,11 @@
+body {
+  background-color: black;
+}
+
 h2 {
   color: greenyellow;
 }
 
-body {
-  background-color: black;
+h3 {
+  color: aliceblue;
 }
